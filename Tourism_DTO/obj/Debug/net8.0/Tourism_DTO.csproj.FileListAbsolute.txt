@@ -1,0 +1,11 @@
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\bin\Debug\net8.0\Tourism_DTO.deps.json
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\bin\Debug\net8.0\Tourism_DTO.dll
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\bin\Debug\net8.0\Tourism_DTO.pdb
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\Tourism_DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\Tourism_DTO.AssemblyInfoInputs.cache
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\Tourism_DTO.AssemblyInfo.cs
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\Tourism_DTO.csproj.CoreCompileInputs.cache
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\Tourism_DTO.dll
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\refint\Tourism_DTO.dll
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\Tourism_DTO.pdb
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_DTO\obj\Debug\net8.0\ref\Tourism_DTO.dll

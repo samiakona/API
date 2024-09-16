@@ -1,0 +1,15 @@
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\bin\Debug\net8.0\Tourism_AggregateRoot.deps.json
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\bin\Debug\net8.0\Tourism_AggregateRoot.dll
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\bin\Debug\net8.0\Tourism_AggregateRoot.pdb
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\bin\Debug\net8.0\Tourism_DTO.dll
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\bin\Debug\net8.0\Tourism_DTO.pdb
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_AggregateRoot.csproj.AssemblyReference.cache
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_AggregateRoot.GeneratedMSBuildEditorConfig.editorconfig
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_AggregateRoot.AssemblyInfoInputs.cache
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_AggregateRoot.AssemblyInfo.cs
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_AggregateRoot.csproj.CoreCompileInputs.cache
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_.FB9986A6.Up2Date
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_AggregateRoot.dll
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\refint\Tourism_AggregateRoot.dll
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\Tourism_AggregateRoot.pdb
+G:\kona\Bdjobs\new\API\Tourism_API\Tourism_AggregateRoot\obj\Debug\net8.0\ref\Tourism_AggregateRoot.dll
